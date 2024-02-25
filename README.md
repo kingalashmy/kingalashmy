@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingalashmy&label=Profile%20views&color=0e75b6&style=flat" alt="kingalashmy" /> </p>
 
-- 🌱 I’m currently learning **Software developer at the Faculty of Science and Technology in Tangier.**
+- 🌱 I am currently in my last year of studying Software Development at the Faculty of Science and Technology in Tangier.
 
 - 📫 How to reach me **m.alhamdi2020@gmail.com**
 
