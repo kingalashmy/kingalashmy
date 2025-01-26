@@ -1,6 +1,4 @@
 
-Here's an updated and more professional version of your profile:
-
 <h1 align="center">Hi 👋, I'm Mohammed Al-hamed from Yemen, currently based in Morocco</h1> <h3 align="center">A passionate software developer & Big Data enthusiast with a focus on Artificial Intelligence</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingalashmy&label=Profile%20views&color=0e75b6&style=flat" alt="kingalashmy" /> </p>
 I am pursuing a Master's degree in Big Data, Artificial Intelligence, and its Applications at the Faculty of Science at Ibn Tofail University, Morocco.
 I previously completed my Bachelor's degree in Software Development at the Faculty of Science and Technology in Tangier.
